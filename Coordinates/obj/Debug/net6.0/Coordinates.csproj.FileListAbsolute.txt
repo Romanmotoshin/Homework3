@@ -1,0 +1,15 @@
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\Coordinates.csproj.AssemblyReference.cache
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\Coordinates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\Coordinates.AssemblyInfoInputs.cache
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\Coordinates.AssemblyInfo.cs
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\Coordinates.csproj.CoreCompileInputs.cache
+D:\Frontend\gb\C#\Homework2\Coordinates\bin\Debug\net6.0\Coordinates.exe
+D:\Frontend\gb\C#\Homework2\Coordinates\bin\Debug\net6.0\Coordinates.deps.json
+D:\Frontend\gb\C#\Homework2\Coordinates\bin\Debug\net6.0\Coordinates.runtimeconfig.json
+D:\Frontend\gb\C#\Homework2\Coordinates\bin\Debug\net6.0\Coordinates.dll
+D:\Frontend\gb\C#\Homework2\Coordinates\bin\Debug\net6.0\Coordinates.pdb
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\Coordinates.dll
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\refint\Coordinates.dll
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\Coordinates.pdb
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\Coordinates.genruntimeconfig.cache
+D:\Frontend\gb\C#\Homework2\Coordinates\obj\Debug\net6.0\ref\Coordinates.dll
